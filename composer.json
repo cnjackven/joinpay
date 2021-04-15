@@ -1,0 +1,20 @@
+{
+    "name": "jackven\/joinpay",
+    "description": "\\uD83D\\uDCE6 It may be the best SDK for developing JoinPay App.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jackven",
+            "email": "jackven@qq.com"
+        }
+    ],
+    "require": {
+        "php": "^7.0|^8.0",
+        "guzzlehttp/guzzle": "^7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jackven\\Joinpay\\": "src"
+        }
+    }
+}
