@@ -1,7 +1,11 @@
-<h1 align="center"> joinpay </h1>
+<h1> joinpay </h1>
 
-<p align="center"> \uD83D\uDCE6 It may be the best SDK for developing JoinPay App..</p>
+<p> It may be the best SDK for developing JoinPay App..</p>
 
+## Installation requirements
+
+1. PHP >= 7.2
+2. **[Composer](https://getcomposer.org/)**
 
 ## Installing
 
